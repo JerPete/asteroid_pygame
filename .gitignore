@@ -1,0 +1,15 @@
+# Ignore virtual environment folder
+venv/
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore editor or OS-generated files
+.DS_Store
+*.log
+
+# Ignore other potential files
+*.bak
+*.swp
